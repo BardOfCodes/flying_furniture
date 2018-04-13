@@ -56,15 +56,10 @@ The name of the dataset is inspired by the [flying chairs dataset](https://lmb.i
 | ------------- |-------------| -----|------------- |-------------|
 |1| zigzag_chair | chair | (192.0, 0.0, 128.0) | ![alt](misc/zigzag_chair.gif) |
 |2| normal_bed | bed | (0.0, 64.0, 0.0) | ![alt](misc/normal_bed.gif) |
-|3| clock | clock | (192.0, 128.0, 0.0) | ![alt](misc/clock.gif) |
-|6| lamp | lamp | (64.0, 0.0, 128.0) | ![alt](misc/lamp.gif) |
 |8| pool_table | table | (128.0, 128.0, 128.0) | ![alt](misc/pool_table.gif) |
-|9| flat_bench | bench | (64.0, 128.0, 128.0) | ![alt](misc/flat_bench.gif) |
-|14| bookshelf | bookshelf |  (128.0, 0.0, 0.0) | ![alt](misc/bookshelf.gif) |
 |15| lshaped_sofa | sofa | (128.0, 64.0, 0.0) | ![alt](misc/lshaped_sofa.gif) |
 |16| bunk_bed | bed | (0.0, 64.0, 0.0) | ![alt](misc/bunk_bed.gif) |
 |17| normal_sofa | sofa | (128.0, 64.0, 0.0) | ![alt](misc/normal_sofa.gif) |
-|20| dresser_cabinet | cabinet | (0.0, 128.0, 0.0) | ![alt](misc/dresser_cabinet.gif) |
  
  ##### Find gifs for each class in `misc/` folder.
  
