@@ -48,7 +48,7 @@ This creates `data/classification/` which contains the classification dataset, a
 
 The name of the dataset is inspired by the [flying chairs dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html).
 
-** This code can be used to understand the render pipeline in RenderForCNN and adapted likewise for various purposes. **
+**This code can be used to understand the render pipeline in RenderForCNN and adapted likewise for various purposes.**
 
 ### Qualitative examples from Flying Furniture dataset:
 
