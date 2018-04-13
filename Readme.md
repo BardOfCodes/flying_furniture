@@ -2,7 +2,7 @@
 
 _A small synthetic dataset for Classification and Segmentation._
 
-#example GIF
+![alt-text-1](misc/1.gif "title-1") ![alt-text-2](misc/2.gif "title-2") ![alt-text-1](misc/3.gif "title-3") ![alt-text-4](misc/4.gif "title-4") ![alt-text-1](misc/5.gif "title-5")
 
 ## Introduction
 
@@ -10,7 +10,21 @@ This repository contains the code to create the __Flying Furniture__ dataset. Fl
 
 The code is provided to help the reader create their own synthetic dataset.
 
-#example GIF 2
+### Flying Furniture dataset:
+
+| Serial No.| Class|Sub-Class| segmetation-color| Examples  | Serial No.| Class|Sub-Class| segmetation-color| Examples  |
+| ------------- |:-------------:| -----:|------------- |:-------------:| -----:|
+|1| zigzag_chair | chair | (192.0, 0.0, 128.0) | ![alt](misc/zigzag_chair.gif) |11| straight_chair | chair | (192.0, 0.0, 128.0) | ![alt](misc/straight_chair.gif) |
+|2| normal_bed | bed | (0.0, 64.0, 0.0) | ![alt](misc/normal_bed.gif) |12| letter_box | mailbox | (0.0, 64.0, 128.0) | ![alt](misc/letter_box.gif) |
+|3| clock | clock | (192.0, 128.0, 0.0) | ![alt](misc/clock.gif) |13| birdhouse | birdhouse | (128.0, 0.0, 0.0) | ![alt](misc/birdhouse.gif) |
+|4| desk_cabinet | cabinet | (0.0, 128.0, 0.0) | ![alt](misc/desk_cabinet.gif) |14| bookshelf | bookshelf |  (128.0, 0.0, 0.0) | ![alt](misc/bookshelf.gif) |
+|5| twodoor_cabinet | cabinet |(0.0, 128.0, 0.0) | ![alt](misc/twodoor_cabinet.gif) |15| lshaped_sofa | sofa | (128.0, 64.0, 0.0) | ![alt](misc/lshaped_sofa.gif) |
+|6| lamp | lamp | (64.0, 0.0, 128.0) | ![alt](misc/lamp.gif) |16| bunk_bed | bed | (0.0, 64.0, 0.0) | ![alt](misc/bunk_bed.gif) |
+|7| swivel_chair | chair | (192.0, 0.0, 128.0) | ![alt](misc/swivel_chair.gif) |17| normal_sofa | sofa | (128.0, 64.0, 0.0) | ![alt](misc/normal_sofa.gif) |
+|8| pool_table | table | (128.0, 128.0, 128.0) | ![alt](misc/pool_table.gif) |18| normal_bench | bench | (64.0, 128.0, 128.0) | ![alt](normal_bench.gif) |
+|9| flat_bench | bench | (64.0, 128.0, 128.0) | ![alt](misc/flat_bench.gif) |19| coffee_table | chair | (128.0, 128.0, 128.0) | ![alt](misc/coffee_table.gif) |
+|10| basket | basket | (192.0, 128.0, 128.0) | ![alt](misc/basket.gif) |20| dresser_cabinet | cabinet | (0.0, 128.0, 0.0) | ![alt](misc/dresser_cabinet.gif) |
+
 
 ## But why?
 
