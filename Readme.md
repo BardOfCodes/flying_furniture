@@ -2,7 +2,7 @@
 
 _A small synthetic dataset for Classification and Segmentation._
 
-<center>![alt-text-1](misc/1.gif "title-1") ![alt-text-2](misc/2.gif "title-2") ![alt-text-1](misc/3.gif "title-3") ![alt-text-4](misc/4.gif "title-4") ![alt-text-1](misc/0.gif "title-5")</center>
+![alt-text-1](misc/1.gif "title-1") ![alt-text-2](misc/2.gif "title-2") ![alt-text-1](misc/3.gif "title-3") ![alt-text-4](misc/4.gif "title-4") ![alt-text-1](misc/0.gif "title-5")
 
 ## Introduction
 
