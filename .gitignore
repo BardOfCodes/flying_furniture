@@ -2,4 +2,4 @@
 data/*
 dataset/*
 *.pyc
-
+__pycaffe__
