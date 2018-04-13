@@ -32,17 +32,19 @@ g_syn_light_energy_mean = 2
 g_syn_light_energy_std = 2
 g_syn_light_environment_energy_lowbound = 0
 g_syn_light_environment_energy_highbound = 1
+g_image_size=112
 
 # system Variables:
 g_blank_blend_file_path = os.path.join(BASE_DIR,'render_pipeline/blank.blend')
-g_save_file_location = os.path.join(BASE_DIR,save_root,'classification/train/')
+g_save_file_location = os.path.join(BASE_DIR,save_root,'render')
+g_save_file_location_final = os.path.join(BASE_DIR,save_root,'render_final')
 g_shape_file_location = os.path.join(BASE_DIR,'dataset/ShapeNetCore.v1/')
 g_syn_bkg_folder = os.path.join(BASE_DIR,'dataset/SUN2012pascalformat/JPEGImages/')
 g_syn_bkg_filelist = os.path.join(BASE_DIR,'dataset/SUN2012pascalformat/filelist.txt')
 # where to save the test file list
-g_file_list_loc = os.path.join(BASE_DIR,save_root, 'classification/')
+g_file_list_loc = os.path.join(BASE_DIR,save_root, 'classification/test_list/')
 # where to save the test file ground truth
-g_test_gt_loc = os.path.join(BASE_DIR,save_root,'gt')
+g_test_gt_loc = os.path.join(BASE_DIR,save_root,'classification/test_gt')
 
 # ------------------------------------------------------------
 g_blender_executable_path = 'blender' #!! MODIFY if necessary
@@ -50,12 +52,10 @@ g_matlab_executable_path = 'matlab' # !! MODIFY if necessary
 
 # ------------------------------------------------------------
 # for segmentation
-train_no_segmentations = 10000
-test_no_segmentations = 5000
-
-g_seg_file_location = os.path.join(BASE_DIR,save_root,'data/segmentation/')
-
+g_clas_file_location = os.path.join(BASE_DIR,save_root,'classification/')
+g_seg_file_location = os.path.join(BASE_DIR,save_root,'segmentation/')
+g_seg_file_init_location = os.path.join(BASE_DIR,save_root,'segmentation/render')
 
 
-g_image_size=112
+
 
