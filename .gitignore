@@ -1,1 +1,5 @@
 *.npy
+data/*
+dataset/*
+*.pyc
+
