@@ -2,7 +2,7 @@
 
 _A small synthetic dataset for Classification and Segmentation._
 
-![alt-text-1](misc/1.gif "title-1") ![alt-text-2](misc/2.gif "title-2") ![alt-text-1](misc/3.gif "title-3") ![alt-text-4](misc/4.gif "title-4") ![alt-text-1](misc/5.gif "title-5")
+<center>![alt-text-1](misc/1.gif "title-1") ![alt-text-2](misc/2.gif "title-2") ![alt-text-1](misc/3.gif "title-3") ![alt-text-4](misc/4.gif "title-4") ![alt-text-1](misc/0.gif "title-5")</center>
 
 ## Introduction
 
@@ -13,7 +13,7 @@ The code is provided to help the reader create their own synthetic dataset.
 ### Flying Furniture dataset:
 
 | Serial No.| Class|Sub-Class| segmetation-color| Examples  | Serial No.| Class|Sub-Class| segmetation-color| Examples  |
-| ------------- |:-------------:| -----:|------------- |:-------------:| -----:|
+| ------------- |-------------| -----|------------- |-------------| -----|------------- |-------------| -----|------------- |-------------| -----|
 |1| zigzag_chair | chair | (192.0, 0.0, 128.0) | ![alt](misc/zigzag_chair.gif) |11| straight_chair | chair | (192.0, 0.0, 128.0) | ![alt](misc/straight_chair.gif) |
 |2| normal_bed | bed | (0.0, 64.0, 0.0) | ![alt](misc/normal_bed.gif) |12| letter_box | mailbox | (0.0, 64.0, 128.0) | ![alt](misc/letter_box.gif) |
 |3| clock | clock | (192.0, 128.0, 0.0) | ![alt](misc/clock.gif) |13| birdhouse | birdhouse | (128.0, 0.0, 0.0) | ![alt](misc/birdhouse.gif) |
