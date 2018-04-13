@@ -14,8 +14,7 @@ The code is provided to help the reader create their own synthetic dataset.
 
 
  Serial No. | Class | Sub-Class | Segmetation-color | Examples | Serial No. | Class | Sub-Class | Segmetation-color | Examples 
-:-------------:|:-------------:|:-----:|:-------------:|:-------------:|:-----:|:-------------:|:-------------:|:-----:|:-------------:|:------------:|:-----
- Serial No. | Class | Sub-Class | Segmetation-color | Examples | Serial No. | Class | Sub-Class | Segmetation-color | Examples 
+
  
  
 ## But why?
