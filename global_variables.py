@@ -9,7 +9,7 @@ import os
 
 # The base directory, where global_variables.py is situated.
 BASE_DIR = '/home/jogendra/aditya/final_flying_furnitures'
-BASE_DIR = '/home/aditya/projects/flying_furniture'
+#BASE_DIR = '/home/aditya/projects/flying_furniture'
 
 # The Additional Information regarding this dataset. Run save_info.py first.
 obj_class = pickle.load(open(os.path.join(BASE_DIR,'info.npy'),'rb'))
