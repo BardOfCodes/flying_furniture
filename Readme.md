@@ -11,6 +11,9 @@ This repository contains the code to create the __Flying Furniture__ dataset. Fl
 The code is provided to help the reader create their own synthetic dataset.
 
 ### Flying Furniture dataset:
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+asdf  |  asdf
 
 | Serial No. | Class | Sub-Class | Segmetation-color | Examples | Serial No. | Class | Sub-Class | Segmetation-color | Examples |
 
