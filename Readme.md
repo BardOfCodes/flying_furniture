@@ -1,12 +1,12 @@
 # Flying Furniture
 
-_ A small synthetic dataset for Classification and Segmentation. _
+_A small synthetic dataset for Classification and Segmentation._
 
 #example GIF
 
 ## Introduction
 
-This repository contains the code to create the __ Flying Furniture__ dataset. Flying Furniture dataset contains 50,000 synthetically rendered images containing 20 sub-classes (12 classes) of furnitures. Each image contains a single furniture, for random viewpoint (and random truncation, random lighting) with a random background. Additionally, segmentation maps are provided all images, based on the 12 classes. This dataset can be used for 20-way classification or 13-way(including background) segmentation.
+This repository contains the code to create the __Flying Furniture__ dataset. Flying Furniture dataset contains 50,000 synthetically rendered images containing 20 sub-classes (12 classes) of furnitures. Each image contains a single furniture, for random viewpoint (and random truncation, random lighting) with a random background. Additionally, segmentation maps are provided all images, based on the 12 classes. This dataset can be used for 20-way classification or 13-way(including background) segmentation.
 
 The code is provided to help the reader create their own synthetic dataset.
 
