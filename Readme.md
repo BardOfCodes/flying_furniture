@@ -11,12 +11,13 @@ This repository contains the code to create the __Flying Furniture__ dataset. Fl
 The code is provided to help the reader create their own synthetic dataset.
 
 ### Flying Furniture dataset:
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-asdf  |  asdf
 
-| Serial No. | Class | Sub-Class | Segmetation-color | Examples | Serial No. | Class | Sub-Class | Segmetation-color | Examples |
 
+ Serial No. | Class | Sub-Class | Segmetation-color | Examples | Serial No. | Class | Sub-Class | Segmetation-color | Examples 
+:-------------:|:-------------:|:-----:|:-------------:|:-------------:|:-----:|:-------------:|:-------------:|:-----:|:-------------:|:------------:|:-----
+ Serial No. | Class | Sub-Class | Segmetation-color | Examples | Serial No. | Class | Sub-Class | Segmetation-color | Examples 
+ 
+ 
 ## But why?
 
 I was the Teaching Assistant for [**DS-265: Deep Learning for Computer Vision**](https://val-iisc.github.io/DLCV/) at CDS department ,IISc, Bangalore for the spring semester of 2018. For giving the students a hands-on experience of deep learning, along with my colleague Ram Prabakar, I held a in-class Kaggle competition for the course. To avoid copy-paste of solutions from GitHub, and to make the challenge more intriguing, I created this dataset.  The Kaggle competition [**The Flying Furniture Challenge**](https://www.kaggle.com/c/ffc) was held from February 8th to Februray 19th. For more details on the challenge, check out the link!   
