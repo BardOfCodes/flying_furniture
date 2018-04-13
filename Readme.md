@@ -12,10 +12,7 @@ The code is provided to help the reader create their own synthetic dataset.
 
 ### Flying Furniture dataset:
 
-| Serial No.| Class|Sub-Class| Segmetation-color| Examples  | Serial No.| Class|Sub-Class| segmetation-color| Examples  |
-| ------------- |-------------| -----|------------- |-------------| -----|------------- |-------------| -----|------------- |-------------| -----|
-| Serial No.| Class|Sub-Class| Segmetation-color| Examples  | Serial No.| Class|Sub-Class| segmetation-color| Examples  |
-
+| Serial No.| Class|Sub-Class| Segmetation-color| Examples  | Serial No.| Class|Sub-Class| segmetation-color| Examples|
 
 ## But why?
 
